@@ -6,4 +6,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
   </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.DotNet.watcher.Tools" Version="1.0"/>
+  </ItemGroup>
 </Project>
